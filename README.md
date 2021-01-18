@@ -11,3 +11,4 @@ From darkness ermerged a terrifying monster : sharp claws, thick furr and a maw 
 # The problem (Etienne)
 
 A demonic soul, this was the last thing I wanted to face right now. I grab my magic pow... It wasn't there anymore ! I lost my magic powder against evil demon soul. It's hopeless... What am I supposed to do without it???
+ **PERFECT!**
