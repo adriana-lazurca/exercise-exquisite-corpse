@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+
+
 ## THE CRAZY NIGHT
 
 ![GitHub Logo](https://i1.sndcdn.com/artworks-000199808805-wkrln8-t500x500.jpg)
@@ -13,4 +13,4 @@ From darkness ermerged a terrifying monster : sharp claws, thick furr and a maw 
 # The problem (Etienne)
 
 A demonic soul, this was the last thing I wanted to face right now. I grab my magic pow... It wasn't there anymore ! I lost my magic powder against evil demon soul. It's hopeless... What am I supposed to do without it???
->>>>>>> 40172ae5ebd5335a1f9d5a3c54380da62fd94ab7
+
